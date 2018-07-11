@@ -32,3 +32,17 @@ been
 had
 but
 be
+fact
+paragraphStart
+paragraphEnd
+way
+company
+cars
+need
+drivers
+bikes
+new
+city
+percent
+vehicles
+

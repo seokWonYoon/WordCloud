@@ -35,18 +35,19 @@ import com.test.wordcloud.words.StringProcessor;
  * </pre>
  */
 public class WordCloud {
-	public static final int WIDTH = 1200;
-	public static final int HEIGHT = 800;
-	public static final int PADDING = 30;
+	public static final int WIDTH = 1600;
+	public static final int HEIGHT = 900;
+	public static final int PADDING = 15;
 
 	public static final String TEXT_ENG = "textResource/eng/english_test.txt";
 	public static final String TEXT_KOR = "textResource/kor/korean_test_미중무역전쟁.txt";
+	public static final String TEXT_TRANSPORTATIONTREETXT = "textResource/eng/TransportationTreeTxt.txt";
 
 	public static final String FILTER_ENG = "textResource/filter/english_filtering.txt";
 	public static final String FILTER_KOR = "textResource/filter/korean_filtering.txt";
 
-	public static final String SELECTED_LANG = TEXT_KOR;
-	public static final String SELECTED_FILTER = FILTER_KOR;
+	public static final String SELECTED_LANG = TEXT_TRANSPORTATIONTREETXT;
+	public static final String SELECTED_FILTER = FILTER_ENG;
 
 	
 	/**

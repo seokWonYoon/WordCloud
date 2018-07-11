@@ -37,9 +37,10 @@ import com.test.wordcloud.words.WordCount;
  */
 public class CloudImageGenerator {
     private static final int REJECT_COUNT = 100;
-    private static final int LARGEST_FONT_SIZE = 160;
+    private static final int LARGEST_FONT_SIZE = 160;//160
     private static final int FONT_STEP_SIZE = 5;
-    private static final int MINIMUM_FONT_SIZE = 10;
+    private static final int MINIMUM_FONT_SIZE = 10;//10
+    
     private static final int MINIMUM_WORD_COUNT = 2;
 //    public static final String FONT_FAMILY = "나눔명조";
     public static final String FONT_FAMILY = "Helvetica";
