@@ -42,12 +42,16 @@ public class WordCloud {
 	public static final String TEXT_ENG = "textResource/eng/english_test.txt";
 	public static final String TEXT_KOR = "textResource/kor/korean_test_미중무역전쟁.txt";
 	public static final String TEXT_TRANSPORTATIONTREETXT = "textResource/eng/TransportationTreeTxt.txt";
+	public static final String TRANSPORTATIONTREEKEYWORD_SENTIMENT_NEGATIVE = "textResource/eng/TransportationTreeKeyword_sentiment_negative.txt";
 
 	public static final String FILTER_ENG = "textResource/filter/english_filtering.txt";
 	public static final String FILTER_KOR = "textResource/filter/korean_filtering.txt";
-
-	public static final String SELECTED_LANG = TEXT_TRANSPORTATIONTREETXT;
-	public static final String SELECTED_FILTER = FILTER_ENG;
+	public static final String FILTER_TRANSPORTATION_NEGATIVE = "textResource/filter/filter_transportation_negative.txt";
+	
+	
+	
+	public static final String SELECTED_LANG = TRANSPORTATIONTREEKEYWORD_SENTIMENT_NEGATIVE;
+	public static final String SELECTED_FILTER = FILTER_TRANSPORTATION_NEGATIVE;
 
 	
 	/**

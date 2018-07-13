@@ -21,13 +21,18 @@ import java.awt.Color;
  * </pre>
  */
 public class ColorCombinations {
-    public static String[] THEME1 = { "#D9CCB9", "#DF7782", "#E95D22", "#017890", "#613D2D" };
+    public static String[] NORMAL = { "#D9CCB9", "#DF7782", "#E95D22", "#017890", "#613D2D" };
     public static String[] THEME2 = { "#0A224E", "#BF381A", "#A0D8F1", "#E9AF32", "#E07628" };
     public static String[] THEME3 = { "#37241E", "#94B3C8", "#4D4E24", "#BD8025", "#816A4A" };
+    public static String[] WHITE_TO_RED = { "#FFFFFF", "#FFFF66", "#FFCC00", "#FF9900", "#FF0000"};
+    public static String[] WHITE_TO_BLUE = { "#FFFFFF", "#94BAE7", "#639ACE", "#4A79A5", "#31659C"};
+    public static String[] SELECT_THEME = WHITE_TO_BLUE;
 
     private int idx = 0;
     private final Color background;
     private final Color[] scheme;
+    
+    
     
     /**
      * 

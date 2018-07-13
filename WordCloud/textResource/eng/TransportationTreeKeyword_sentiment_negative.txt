@@ -1,0 +1,869 @@
+﻿self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car self-driving car 
+traffic death traffic death traffic death traffic death traffic death traffic death traffic death traffic death traffic death traffic death traffic death traffic death traffic death traffic death traffic death traffic death traffic death 
+fence fence fence fence fence fence fence fence fence fence fence fence fence fence fence fence fence fence 
+autopilot mode autopilot mode autopilot mode autopilot mode autopilot mode autopilot mode autopilot mode autopilot mode autopilot mode autopilot mode autopilot mode autopilot mode autopilot mode 
+crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk crosswalk 
+bike bike bike bike bike bike bike bike bike bike bike bike bike bike bike 
+pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian pedestrian 
+people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people people 
+cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars cars 
+autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot autopilot 
+way way way way way way way way way way way way way way way way way way way way 
+time time time time time time time time time time time time time time time time time time time 
+Strida Strida Strida Strida Strida Strida Strida Strida Strida Strida Strida Strida Strida Strida Strida Strida 
+roads roads roads roads roads roads roads roads roads roads roads roads 
+Uber Uber Uber Uber Uber Uber Uber Uber Uber Uber Uber Uber 
+cyclists cyclists cyclists cyclists cyclists cyclists cyclists cyclists cyclists cyclists cyclists 
+car car car car car car car car car car 
+Tesla Tesla Tesla Tesla Tesla Tesla Tesla Tesla Tesla 
+number number number number number number number number number 
+need need need need need need need 
+work work work work work work work 
+look look look look look look look 
+world world world world world world world 
+driver driver driver driver driver driver driver 
+bendy bus bendy bus bendy bus bendy bus bendy bus bendy bus bendy bus 
+problems problems problems problems problems problems problems 
+percent percent percent percent percent percent 
+miles miles miles miles miles miles 
+speed limit speed limit speed limit speed limit speed limit speed limit 
+road road road road road road 
+problem problem problem problem problem problem 
+fact fact fact fact fact fact 
+public transit public transit public transit public transit public transit public transit 
+half half half half half 
+T-pod T-pod T-pod T-pod T-pod 
+guns guns guns guns guns 
+underride collisions underride collisions underride collisions underride collisions 
+men men men men 
+congestion congestion congestion congestion 
+fencing fencing fencing fencing 
+engineers engineers engineers engineers 
+Christian Wolmar Christian Wolmar Christian Wolmar Christian Wolmar 
+bikers bikers bikers bikers 
+decades decades decades decades 
+Joshua Brown Joshua Brown Joshua Brown Joshua Brown 
+crashes crashes crashes crashes 
+cars. cars. cars. cars. 
+lives lives lives lives 
+issue issue issue issue 
+steering wheel steering wheel steering wheel 
+Mad Max Mad Max Mad Max 
+sideguards sideguards sideguards 
+déjà vu déjà vu déjà vu 
+sort sort sort 
+thing thing thing 
+house house house 
+company company company 
+words words words 
+OD OD OD 
+makers makers makers 
+traffic deaths traffic deaths traffic deaths 
+course course course 
+walking walking walking 
+traffic traffic traffic 
+automakers automakers automakers 
+studies studies studies 
+home home home 
+war war war 
+lock lock lock 
+homes homes homes 
+passenger vehicle passenger vehicle passenger vehicle 
+Walker Walker Walker 
+terms terms terms 
+politicians politicians politicians 
+table table table 
+car trips car trips car trips 
+battle battle battle 
+tesla autopilot tesla autopilot tesla autopilot 
+Holborn problem Holborn problem Holborn problem 
+Porsche Porsche Porsche 
+n’t n’t n’t 
+Tesla Model Tesla Model Tesla Model 
+real estate real estate real estate 
+living room living room living room 
+Vision Zero Vision Zero Vision Zero 
+PLP/Architecture PLP/Architecture PLP/Architecture 
+Auto Insurance Auto Insurance Auto Insurance 
+companies companies 
+town town 
+UFO UFO 
+tubes tubes 
+streetcars streetcars 
+obstacles obstacles 
+chairs chairs 
+new ways new ways 
+trip trip 
+mass shooting mass shooting 
+Everybody Everybody 
+underride crash underride crash 
+sky sky 
+focus focus 
+grade separation grade separation 
+result result 
+underride victims underride victims 
+Steven M. Steven M. 
+point point 
+bicycles bicycles 
+potential potential 
+centre aisle centre aisle 
+vehicular accident. vehicular accident. 
+Jessie Singer Jessie Singer 
+market market 
+drivers drivers 
+cycling cycling 
+Canadian Transportation Agency Canadian Transportation Agency 
+child child 
+victim victim 
+self-driving cars fuel self-driving cars fuel 
+machines machines 
+weight weight 
+biggest problems biggest problems 
+launch launch 
+transportation mode transportation mode 
+conventional car conventional car 
+entryways entryways 
+Transportation Safety Board Transportation Safety Board 
+Max Fury Road/ Max Fury Road/ 
+Computers Computers 
+attention attention 
+Professor Confused Professor Confused 
+ability ability 
+soot soot 
+car manufacturers car manufacturers 
+organ donations organ donations 
+doubt doubt 
+truck truck 
+airlines airlines 
+audible warnings audible warnings 
+transplant transplant 
+n’t work n’t work 
+urban areas urban areas 
+Mad Max Fury Mad Max Fury 
+street street 
+women women 
+object object 
+exercise exercise 
+boredom boredom 
+rules rules 
+shortage shortage 
+technology technology 
+chance chance 
+sprawl sprawl 
+snow snow 
+changes changes 
+halt halt 
+fuel urban sprawl fuel urban sprawl 
+forces forces 
+pedestrian deaths pedestrian deaths 
+issues issues 
+investment investment 
+Long commutes Long commutes 
+fraction fraction 
+National Transportation Safety National Transportation Safety 
+end end 
+mile problem mile problem 
+long time long time 
+households households 
+safety safety 
+passenger cars passenger cars 
+nothin nothin 
+times times 
+trouble trouble 
+brakes brakes 
+high-tech status symbols high-tech status symbols 
+role role 
+term term 
+review review 
+ordinance ordinance 
+freedom freedom 
+geometry geometry 
+crumple zones crumple zones 
+small probability small probability 
+human drivers human drivers 
+stations 
+favour 
+sheep 
+self-driving systems 
+worse job 
+rail travel 
+paragraphEnd&inews/via25km 
+relatively expensive services 
+donor base 
+downside 
+predictions 
+autonomous cars 
+traffic rules 
+air bag deployment 
+pack 
+paragraphStart&It 
+facilities 
+elements 
+traffic. 
+unexpected places 
+Federal regulators 
+urban revolution 
+outmoded systems 
+AV revolution 
+bed. 
+BillA decade 
+annual gun deaths 
+kilometers 
+Millard-Ball lays 
+Inconvenient Truth 
+office 
+Co. 
+home. 
+self-driving safety 
+time.&paragraphEnd&Now 
+children 
+latest fashion accessory.&paragraphEnd&I 
+almanac/ Separated streets 
+human driven car 
+automated doors 
+big threat 
+objects 
+mile 
+American anti-bus bias 
+stairways 
+reasons 
+autonomous driving mode. 
+permanent gridlock 
+city councillor 
+ITDPBliss 
+confinement 
+commercial run 
+headlights 
+paragraphStart&I 
+traffic signs 
+highlights real problem 
+better slow cars 
+lower speed limits 
+expensive big-screen TV 
+Wired 
+worst thing 
+cars.&paragraphEnd 
+AV operation 
+AAABut 
+paragraphStart&Small particles 
+geometric problem 
+zones 
+mayors 
+London/ Katherine Martinko/CC 
+sides 
+New York Times 
+conservative attack 
+safe features 
+viability 
+big bust 
+control 
+long charging cycles 
+2.0The investment 
+accident damages 
+overall costs 
+electric sports car.Many 
+medical costs 
+navigation.With 
+EVs 
+bad idea 
+low gear 
+pedestrian blaming 
+big point 
+necessary scale.&paragraphEnd&And 
+model 
+suburban constituency 
+shaft 
+seriously problematic vision 
+Heather’s post 
+existence.&paragraphStart&Indeed 
+PRT 
+story 
+needs 
+boring 
+pretence 
+over.&paragraphEnd&Hence 
+GM Futurama 
+self-driving mode 
+financial obligations 
+drones dropping lunch 
+tragic story 
+major train crash 
+paragraphStart&Smart cities 
+hinge 
+nearest metro 
+regulations 
+Tesla crash/Public DomainWhen 
+financial obligations.&paragraphEnd&More 
+auto safety standards 
+high level 
+prices 
+TreeHugger 
+mobility—has 
+gun control 
+2.35 
+artificial intelligence 
+fuel costs 
+events 
+large car 
+paragraphStart&Ghosn 
+Recode notes 
+opaque 
+Citibikes 
+late mayor Rob 
+great promise 
+barriers 
+Tesla Autopilot Review 
+bad commute 
+bus stops 
+present 
+motorists 
+secretarial jobs 
+green technology 
+estimate 
+AVs work 
+side-underride collisions 
+categories 
+disincentive. 
+benefits 
+urban planners 
+head 
+close look 
+problem. 
+terrible drivers 
+shame 
+car exhaust 
+Tesla car 
+ground 
+bus stop 
+big metal box 
+millions 
+NE 140th Court 
+possible scenarios 
+Deployment Act 
+sight 
+self-crawling stage 
+freight hauling presents 
+automobile fatalities 
+self-driving software 
+traditional rigs 
+shiny new toy 
+visibility conditions.&paragraphEnd&Tesla 
+back.I thought 
+Illinois 
+wait times 
+elevator cab 
+drivingLess air travel 
+Chinese site 
+approach 
+organ donors 
+fog 
+biker lives 
+inconvenience 
+media rooms 
+accidents.&paragraphEnd&technology 
+depots 
+box 
+bikers.&paragraphEnd&But 
+vehicle maker 
+18-wheel semi 
+outmoded vision 
+aheadWill pedestrians 
+ridiculous victim-blaming 
+reason 
+AV headlights.Full Self-Driving 
+urban nightmare 
+race 
+vast majority 
+tire wear 
+urban/suburb effect 
+nightmare. 
+car ownership 
+U.S. government sites 
+PaleofutureThis 
+culs 
+self-driving time 
+similar advances 
+single person 
+ugly choices 
+rash 
+performance 
+question 
+girds 
+toxic work environment 
+CTA 
+paragraphEnd&Big bendy bus 
+bad roads 
+dollars 
+fewer people 
+kidney failure 
+excuse 
+mess 
+fewer farmers 
+classic proportions 
+mayor 
+paragraphEnd&The NTSB 
+ItalyBut 
+lack 
+prognosticators 
+mouth 
+China 
+business 
+automation-induced sprawl 
+LinerIn Europe 
+CNN 
+colder cities 
+out.On 
+dieselBern Grush 
+well-to-do suburbanites 
+city centres 
+idyllic urban future 
+roof 
+trailer.&paragraphEnd&Police report drawing 
+traffic lights 
+AV designers 
+Vimeo.Watch 
+Tesla defenders 
+prospect 
+distractions 
+driverless motordom try 
+lifeEven 
+attitudes 
+Mission E drivers 
+overhead signs 
+bicycle thief 
+PM 
+autonomous car 
+fans 
+regular train 
+broken culture 
+demanding 
+second-class stigma 
+Hallowe’en 
+Vimeo.Now Volkswagen 
+agnostic behavior 
+urban context 
+cyberspace technodream 
+morbid 
+ROW 
+campaign 
+biggest trends 
+succulents 
+confusion 
+V2X systems 
+tractor-trailer structures. 
+automobile industry 
+uphill battle convincing 
+USA. The driver 
+media room 
+fully functioning LRT 
+air bags 
+market share 
+Airbags 
+green space 
+vehicle emissions 
+kinks 
+Fast CompanyIf 
+window 
+2.0&paragraphStart&Self-driving cars 
+large truck fatalities 
+different trends 
+sex.© Auto Insurance 
+sci-fi dream 
+road.&paragraphStart&One study 
+smart technology 
+haulage 
+automated vehicle 
+2.0- pedestrians 
+care 
+road.We 
+roar 
+AI experts 
+complex task 
+trillions 
+money 
+JUMPBikes 
+center aisle 
+bigger issues 
+Scotland 
+tedious work 
+silly face 
+long overdue dignity 
+seats 
+dens 
+pavement 
+value 
+board 
+Avidor/ Road Kill 
+tricky incidents 
+paragraphStart&In its letter 
+roadway 
+autonomous rides 
+manslaughter 
+Thilo Koslowski 
+extra mile 
+quarters 
+important safety problem 
+permanent parking 
+urban transportation 
+Hardware 
+paragraphEnd&He 
+bike trips 
+U.S. 
+road traffic 
+London 
+school 
+tweets 
+counter-intuitive problem 
+multimodal transportation 
+pedestrians.&paragraphEnd&I 
+motor age sense 
+city- eliminating street 
+Red Dwarf 
+Autonomous Rail Transit 
+parking spaces. 
+conflict 
+Copenhagen/ Lloyd Alter/CC 
+‘I 
+slot.© Volkswagen AktiengesellschaftOr 
+time autonomous car 
+priority zones 
+biggest issue 
+2.0Bliss 
+absence 
+U.S. jobs 
+Version 
+risk 
+construction zones 
+gruesome drawing 
+massive public relations 
+Isetta/ Slow cars 
+robot car speeding 
+biggest debates 
+Super-Cheap Driverless Taxis 
+car.© Steven M. 
+dubious assumption 
+rethink 
+housing prices 
+vehicles 
+glory myths 
+Tesla Motors 
+dense city centers 
+skepticism 
+reduced health care 
+belief 
+them.© Krone Safe 
+government data 
+planning devices 
+responsibility 
+driver resting periods 
+Fenced street 
+legal fees 
+illegitimate users 
+autonomous electric cars—that 
+personal automobile 
+personnel 
+game 
+driver pay 
+instruments 
+tiny Oban 
+good job 
+driverless trips 
+weather 
+density.© Jarrett Walker/ 
+drug overdoses 
+rubber wheels 
+meantime 
+45 minutes 
+human driver 
+real problem 
+speeding 
+phone 
+spouse 
+Interstates 
+pedals 
+comments 
+jaywalking laws 
+fuel economy 
+AV companies 
+insanely buggy software 
+human standards 
+roadWill self-driving cars 
+CurbThe authors 
+up. 
+secondary streets 
+paragraphStart&A gun lobbyist 
+analysis 
+story line 
+Automated Vehicle Testing 
+toxic levels 
+engineering 
+cities 
+regulation. 
+mass shootings 
+time.Boomers 
+function 
+year.&paragraphEnd&This 
+distances 
+TreeHugger Graham Hill 
+paragraphEnd&Matt Novak/ Paleofuture/Public 
+hook 
+massive windshield 
+real threat 
+freeway 
+Igor 
+light-rail systems—to buses.&paragraphEnd 
+damn fault.&paragraphEnd 
+disincentive 
+so-called Autopilot 
+sprawl country 
+summon buttons 
+20s 
+local brewers 
+bus ad/Promo 
+pedestrian devices 
+underride injuries 
+recent Tesla crash 
+sense 
+mobile home theaters.One 
+fuel.NPR/viaThis 
+garages 
+percent change 
+FairI 
+trucking victims 
+century 
+particular vision 
+fault 
+polluted cities 
+dense city 
+interview 
+Curbed 
+physical activity.&paragraphEnd&Terrorism experts 
+revelation 
+45-year-old Ohio man 
+Adam Millard-Ball 
+bar states 
+Molina 
+contentious issues 
+irritation 
+remote control.© EinrideEinride 
+pickup trucks 
+self-driving liability 
+population centers 
+pesky cyclists 
+fleets 
+overdrive.Einride 
+heck 
+biggest challenges. 
+extra money 
+daily commutes 
+fewer cars 
+poor translation 
+rain 
+organ supply 
+lower-income citizens 
+markings 
+AktiengesellschaftThe dumbest thing 
+reckless riding 
+coverage 
+Futurama/viaSo 
+trips 
+button 
+grade-separated crosswalk 
+electric sedan 
+walkable cities 
+Arthur Radebaugh/ Closer 
+49-year-old woman 
+autonomous vehicle projections 
+problematic competitors 
+300 metres 
+view 
+food distribution 
+driverless car rules.Mad 
+bad design 
+headlines 
+.Gif 
+paragraphEnd&Sissons 
+gun owners 
+big American study 
+100,000 
+vehiclesHow 
+sac 
+self-driving technology 
+long-haul drivers 
+CO2 emissions 
+technological change 
+USA 
+inconsiderate pedestrians 
+hybrid 
+extremely difficult time 
+concave 
+Toronto 
+21st century technology 
+motor traffic.&paragraphEnd&Copenhagenize/viaPeople 
+huge challenge 
+opposite 
+conventional buses 
+future 
+long.Fences 
+Alex Davies 
+silly garden 
+limitations 
+moment 
+NHTSA report 
+city.If 
+obesity 
+things 
+lights 
+Ohio 
+cockpit 
+Patrick Sissons 
+paragraphStart&Fuel consumption 
+situation 
+electric cars 
+traffic accidents 
+JohnsonThis 
+entire streets 
+recent Toronto experience 
+deaths 
+passenger vehicle structures 
+dollar question 
+AV manufacturers 
+video 
+original limiter 
+1950s 
+fully-loaded Boeing 
+product liability question 
+different vehicle 
+optimization 
+emergency 
+weakest link 
+coffee shops 
+green light 
+elevator analogy 
+Cat 
+big bus 
+interesting paragraph 
+park 
+head injury statistics 
+routine underfunding 
+goal 
+autonomous driving –in 
+road full attention 
+urban realm 
+entire population 
+kidneys 
+urbanist Taras Grescoe 
+annum 
+level 
+‘bikers 
+new idea 
+technology firms 
+Automobile clubs 
+Windows Operating Systems 
+MPH zone 
+movie theatre 
+latest technology fads 
+Ford Motors 
+proper planning 
+rooms 
+force 
+recent study 
+automobile 
+personal vehicle 
+glare 
+key points 
+blood 
+20,000-plus people 
+crap 
+CenterSome interesting splits 
+bigger challenges 
+light post 
+size 
+unpredictable ways 
+Oban/ Lloyd Alter/CC 
+bucket 
+product 
+motorists.&paragraphEnd&And 
+big opportunity.Johana Bhuiyan 
+check-in 
+individual cities 
+paragraphEnd&The authors 
+billions 
+foot 
+autonomous bus 
+short trips 
+pandering 
+average wage 
+key point 
+total lack 
+completion 
+Model S vehicle 
+Testing 
+authors 
+Writer 
+concern 
+post 
+there.One 
+lower marginal costs 
+left turn 
+blame 
+roadways 
+premature mortalities 
+paragraphStart&Once companies 
+office. 
+car-park hell 
+relatives 
+truck safety laws 
+dodgy reliability 
+self-driving vehicles 
+Teslas 
+fast powerful Tesla 
+synthetic opioids 
+carbon 
+trucking sector 
+line 
+PM2.5Just 
+Alaska 
+Starbucks 
+dangerous obstacle 
+Island airport 
+round-trip 
+pedestrian control 
+human-driven car 
+massive rail transit 
+autonomous vehicles.JUMP 
+soda 
+complexity 
+disproportionate share 
+kids 
+happen.discover-SEDRIC Video Short 
+Fred Lampert 
+Boris Johnson 
+worries 
+steel 
+DomainWhat 
+single drop 
+Presskitservice 
+roadside infrastructure 
+new trailers 
+grade separated cities 
+Truly high-definition mapping 
+roads.© Brian Tefft 
+popcorn.&paragraphEnd&These cars 
+Kick Mass Transit 
+new world 
+new wave 
+underside 
+behind. 
+transportation needs 
+yards 
+underplayed issue 
+popular belief 
+Bloomberg 
+vehicular death toll 
+scary future 
+heavy-duty trucks 
+population lives 
+environment 
+cycle-shaped hurdle 
+production version 
